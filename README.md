@@ -4,5 +4,5 @@
 
 Para inicio será necessario dar esse comando no seu cmd;
 ```
-npm install react
+node app.js
 ```
